@@ -1,0 +1,7 @@
+C:\Users\lovito99\OneDrive\Escritorio\Progrmacion\Programacion 2\AppNumeroRacional\AppNumeroRacional\bin\Debug\AppNumeroRacional.exe.config
+C:\Users\lovito99\OneDrive\Escritorio\Progrmacion\Programacion 2\AppNumeroRacional\AppNumeroRacional\bin\Debug\AppNumeroRacional.exe
+C:\Users\lovito99\OneDrive\Escritorio\Progrmacion\Programacion 2\AppNumeroRacional\AppNumeroRacional\bin\Debug\AppNumeroRacional.pdb
+C:\Users\lovito99\OneDrive\Escritorio\Progrmacion\Programacion 2\AppNumeroRacional\AppNumeroRacional\obj\Debug\AppNumeroRacional.csproj.AssemblyReference.cache
+C:\Users\lovito99\OneDrive\Escritorio\Progrmacion\Programacion 2\AppNumeroRacional\AppNumeroRacional\obj\Debug\AppNumeroRacional.csproj.CoreCompileInputs.cache
+C:\Users\lovito99\OneDrive\Escritorio\Progrmacion\Programacion 2\AppNumeroRacional\AppNumeroRacional\obj\Debug\AppNumeroRacional.exe
+C:\Users\lovito99\OneDrive\Escritorio\Progrmacion\Programacion 2\AppNumeroRacional\AppNumeroRacional\obj\Debug\AppNumeroRacional.pdb
